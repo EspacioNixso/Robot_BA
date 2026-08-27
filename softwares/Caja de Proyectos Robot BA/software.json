@@ -1,0 +1,14 @@
+{
+  "id": "Caja de Proyectos Robot BA",
+  "nombre": "Caja de Proyectos",
+  "subtitulo": "Proyectos y recursos para Robot BA",
+  "descripcion": "Explorador de proyectos para utilizar en el aula, aportados por otros usuarios de Robot BA y descargados desde GitHub.",
+  "version": "1.0.0",
+  "imagen": "interfase.png",
+  "ejecutable": "Caja de Proyectos Robot BA.exe",
+  "orden": 9,
+  "activo": true,
+  "argumentos": [],
+  "carpeta_trabajo": ".",
+  "detectar_ejecutable": false
+}
