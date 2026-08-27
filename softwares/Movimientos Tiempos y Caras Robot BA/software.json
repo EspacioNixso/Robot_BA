@@ -1,0 +1,14 @@
+{
+  "id": "Movimientos y Caras con Tiempos Robot BA",
+  "nombre": "Movimientos y Caras con Tiempos",
+  "subtitulo": "Secuencias temporizadas y expresiones del robot",
+  "descripcion": "Herramienta para programar secuencias de movimiento del robot mediante flechas, definir la duración de cada movimiento y seleccionar diferentes caras y expresiones para mostrar en la matriz LED.",
+  "version": "1.0.0",
+  "imagen": "interfase.png",
+  "ejecutable": "Movimientos Tiempos y Caras Robot BA.exe",
+  "orden": 5,
+  "activo": true,
+  "argumentos": [],
+  "carpeta_trabajo": ".",
+  "detectar_ejecutable": false
+}

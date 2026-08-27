@@ -1,0 +1,14 @@
+{
+  "id": "Movimiento y Píxeles con Tiempos Robot BA",
+  "nombre": "Movimiento y Píxeles con Tiempos",
+  "subtitulo": "Secuencias temporizadas y diseños en la matriz LED",
+  "descripcion": "Herramienta para programar secuencias de movimiento del robot mediante flechas, definir la duración de cada movimiento y crear diseños en la matriz LED.",
+  "version": "1.0.0",
+  "imagen": "interfase.png",
+  "ejecutable": "Movimientos Tiempos y Píxeles Robot BA.exe",
+  "orden": 4,
+  "activo": true,
+  "argumentos": [],
+  "carpeta_trabajo": ".",
+  "detectar_ejecutable": false
+}

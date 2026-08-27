@@ -1,0 +1,14 @@
+{
+  "id": "IDE Robot BA",
+  "nombre": "IDE",
+  "subtitulo": "Programación textual del robot",
+  "descripcion": "Entorno de programación textual para crear, editar, compilar y enviar programas al robot mediante BLE (Bluetooth Low Energy).",
+  "version": "1.0.0",
+  "imagen": "interfase.png",
+  "ejecutable": "IDE Robot BA.exe",
+  "orden": 7,
+  "activo": true,
+  "argumentos": [],
+  "carpeta_trabajo": ".",
+  "detectar_ejecutable": false
+}

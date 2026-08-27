@@ -1,0 +1,14 @@
+{
+  "id": "Bloques Robot BA",
+  "nombre": "Bloques",
+  "subtitulo": "Programación visual del robot",
+  "descripcion": "Entorno de programación por bloques para crear secuencias, controlar componentes y programar el comportamiento del robot de forma visual, con envío del programa por BLE.",
+  "version": "1.0.0",
+  "imagen": "interfase.png",
+  "ejecutable": "Bloques Robot BA.exe",
+  "orden": 6,
+  "activo": true,
+  "argumentos": [],
+  "carpeta_trabajo": ".",
+  "detectar_ejecutable": false
+}

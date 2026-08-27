@@ -1,0 +1,14 @@
+{
+  "id": "Control Robot BA",
+  "nombre": "Control",
+  "subtitulo": "Movimiento en tiempo real",
+  "descripcion": "Control directo del movimiento del robot mediante flechas, con envío inmediato de las órdenes por BLE.",
+  "version": "1.0.0",
+  "imagen": "interfase.png",
+  "ejecutable": "Control Robot BA.exe",
+  "orden": 1,
+  "activo": true,
+  "argumentos": [],
+  "carpeta_trabajo": ".",
+  "detectar_ejecutable": false
+}
