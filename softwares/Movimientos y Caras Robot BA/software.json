@@ -3,7 +3,7 @@
   "nombre": "Movimientos y Caras",
   "subtitulo": "Secuencias de movimiento y expresiones del robot",
   "descripcion": "Herramienta para programar secuencias de movimiento del robot mediante flechas y seleccionar diferentes caras y expresiones para mostrar en la matriz LED.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "imagen": "interfase.png",
   "ejecutable": "Movimientos y Caras Robot BA.exe",
   "orden": 3,
