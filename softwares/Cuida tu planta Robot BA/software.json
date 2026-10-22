@@ -1,0 +1,14 @@
+{
+  "id": "Cuida tu planta Robot BA",
+  "nombre": "Cuida tu planta",
+  "subtitulo": "Exploramos la humedad de la tierra",
+  "descripcion": "Aplicación educativa para observar la humedad de la tierra mediante un sensor conectado al robot por BLE. Representa cinco estados de la planta con imágenes, animaciones y colores en la matriz LED.",
+  "version": "1.0.0",
+  "imagen": "interfase.png",
+  "ejecutable": "Cuida tu planta Robot BA.exe",
+  "orden": 10,
+  "activo": true,
+  "argumentos": [],
+  "carpeta_trabajo": ".",
+  "detectar_ejecutable": false
+}
