@@ -3,7 +3,7 @@
   "nombre": "Movimiento y Píxeles",
   "subtitulo": "Secuencias de movimiento y diseños en la matriz LED",
   "descripcion": "Herramienta para programar secuencias de movimiento del robot mediante flechas y crear diseños en la matriz LED.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "imagen": "interfase.png",
   "ejecutable": "Movimientos y Píxeles Robot BA.exe",
   "orden": 2,
